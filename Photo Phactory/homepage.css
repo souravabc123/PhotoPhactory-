@@ -1,0 +1,54 @@
+.navbar-inverse
+{
+	background:#2c3e50;
+}
+.navbar-inverse .navbar-nav>li>a
+{
+ 	color: white;
+}
+.navbar-inverse .navbar-brand
+{
+	color: white;
+
+}
+#headcontent
+{
+	text-align: center;
+	padding-top: 25%;
+	background-size: cover;
+	background-image: url(dandelion_flowers_4k-wide.jpg	);
+	background-position: center;
+	background-repeat: no-repeat;
+	color: #003300;
+	padding-top: 25%;
+	text-align: center;
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 8px 13px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1);
+
+}
+h1{
+	padding-bottom: 8%;
+	font-weight: 700;
+	font-size: 5em;
+	}
+h4
+{
+	padding-bottom: 1%;
+}
+
+hr {	
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+
+h3
+{
+	text-align: center;
+}
+.images
+{
+	padding-top: 750px;
+}
